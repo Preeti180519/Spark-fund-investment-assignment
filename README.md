@@ -1,6 +1,6 @@
 # Spark-fund-investment-assignment
 Objective: To understand the global trends in investments so that investment decisions can be made effectively. <br>
-           Spark Funds has two minor constraints for investments:<br>
+           Spark Fund has two minor constraints for investments:<br>
            1) It wants to invest between 5 to 15 million USD per round of investment<br>
            2) It wants to invest only in English-speaking countries because of the ease of communication with the companies it would invest in.<br>
            <br>
